@@ -1,6 +1,5 @@
 /**
  * This is the stage scrolling class
- * @author pete goodman - petegoodman.com
 */
 var stageScroller = {
 
